@@ -1,2 +1,17 @@
-# aryaman-portfolio
-A modern portfolio website showcasing my projects, problem-solving skills, and achievements, including national-level abacus rankings and real-world applications.
+# Aryaman Sawhney Portfolio
+
+This is my personal portfolio website showcasing my skills, projects, and achievements.
+
+## 🔧 Tech Used
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Projects
+- Password Strength Analyzer
+- Life Tracker (Work in Progress)
+- Complaint Dashboard (Work in Progress)
+
+## 🏆 Achievements
+- 2× State Level Abacus Champion
+- National Rank 3 & 4
